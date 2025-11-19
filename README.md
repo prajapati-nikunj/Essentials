@@ -207,8 +207,8 @@ All components automatically adapt to the system color scheme using:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/SwiftUI-Essentials.git
-cd SwiftUI-Essentials
+git clone https://github.com/yourusername/Essentials.git
+cd Essentials
 ```
 
 2. Open the project:
