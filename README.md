@@ -273,3 +273,8 @@ Created following Apple's SwiftUI best practices and modern iOS development stan
 ---
 
 **Built with ❤️ using SwiftUI and Clean Architecture**
+
+<img width="320" height="1136" alt="1" src="https://github.com/user-attachments/assets/78ad8f31-a014-49e1-b87b-e5c7a9df2fb4" />
+<img width="320" height="1136" alt="2" src="https://github.com/user-attachments/assets/9f49b47e-80df-4433-a01e-168ee2144cc6" />
+<img width="320" height="1136" alt="3" src="https://github.com/user-attachments/assets/afe44bde-c571-4bf3-969b-056e43b89427" />
+
